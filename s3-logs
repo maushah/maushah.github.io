@@ -1,0 +1,11 @@
+layout: page
+title: "S3 and the logging recursion"
+permalink: /s3-self-logging/
+
+Ever had issues with S3 bucket constantly showing files when there is no activity or cannot delete an old bucket as its got too many objects?
+
+Logging to yourself
+
+Disable logging
+
+use s3 sync to delete
