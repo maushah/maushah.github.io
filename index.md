@@ -3,7 +3,7 @@
 
 ### Gotchas
 
-- Self filling S3 bucket issues and how to resolve https://github.com/maushah/maushah.github.io/blob/master/s3-logs
+- [Self filling S3 bucket issues and how to resolve] (https://github.com/maushah/maushah.github.io/blob/master/s3-logs)
 
 ### Tips & Tricks
 
