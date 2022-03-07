@@ -21,6 +21,6 @@
    * [SRE Capability heatmap](https://www.cruform.com/sre-capability-map/)
 
 * System Architecture
-   * [Netflix Event Notification] (https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
+   * [Netflix Event Notification](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
  
 
