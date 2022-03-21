@@ -22,5 +22,8 @@
 
 * System Architecture
    * [Netflix Event Notification](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
+
+* Security
+   * [Cyber Sec trends](https://www.oreilly.com/radar/the-future-of-security/)
  
 
