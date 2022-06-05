@@ -13,6 +13,7 @@
 
 * Kubernetes
     * [Neat explanation of K8S roles, rolebindings and how they get mapped to AWS IAM on an EKS cluster - would be nice if AWS made this less complicated](https://www.agilepartner.net/en/adding-users-to-your-eks-cluster/)
+    * [K8s networking visual](https://opensource.com/article/22/6/kubernetes-networking-fundamentals)
 
 * Cost optimization 
    * [Cost tools](https://harness.io/blog/kubecost-alternatives/)
