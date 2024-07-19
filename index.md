@@ -14,6 +14,7 @@
 * Kubernetes
     * [Neat explanation of K8S roles, rolebindings and how they get mapped to AWS IAM on an EKS cluster - would be nice if AWS made this less complicated](https://www.agilepartner.net/en/adding-users-to-your-eks-cluster/)
     * [K8s networking visual](https://opensource.com/article/22/6/kubernetes-networking-fundamentals)
+    * [K8S interview questions](https://airtable.com/appUxA4AZm2BKoUqO/shrtD8ZXBJ2irS7ge/tblmaYf5eiMtk5pp1/viwe8rfrLpNn9Lyt0?blocks=hide)
 
 * Cost optimization 
    * [Cost tools](https://harness.io/blog/kubecost-alternatives/)
@@ -26,6 +27,8 @@
 
 * Security
    * [Cyber Sec trends](https://www.oreilly.com/radar/the-future-of-security/)
+   * [Security site](https://asecuritysite.com/)
+   * [Deep Fake Abuse report] (https://stopncii.org/)
  
 * Hiring
   * [System Design Interview](https://www.educative.io/blog/complete-guide-to-system-design)
