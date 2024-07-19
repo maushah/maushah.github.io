@@ -27,4 +27,7 @@
 * Security
    * [Cyber Sec trends](https://www.oreilly.com/radar/the-future-of-security/)
  
+* Hiring
+  * [System Design Interview](https://www.educative.io/blog/complete-guide-to-system-design)
+ 
 
