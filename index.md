@@ -4,6 +4,9 @@
 
 * [Cloud Agnostic - say what?](https://github.com/maushah/maushah.github.io/blob/master/multicloud.md)
 
+### Processes
+
+
 
 ### Tips & Tricks
 
@@ -30,4 +33,5 @@
 * Security
    * [Cyber Sec trends](https://www.oreilly.com/radar/the-future-of-security/)
    * [Security site](https://asecuritysite.com/)
-   * [Deep Fake Abuse report] (https://stopncii.org/)
+   * [Deep Fake Abuse report](https://stopncii.org/)
+   * [Cyber Insurance](https://github.com/maushah/maushah.github.io/blob/master/cyberinsurance.md)
