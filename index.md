@@ -2,6 +2,7 @@
 
 ### Learnings
 
+* [Cloud Agnostic - say what?](https://github.com/maushah/maushah.github.io/blob/master/multicloud.md)
 
 
 ### Tips & Tricks
