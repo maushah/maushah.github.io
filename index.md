@@ -3,6 +3,7 @@
 ### Learnings
 
 * [Cloud Agnostic - say what?](https://github.com/maushah/maushah.github.io/blob/master/multicloud.md)
+* [Running MPLS VPN networking in Docker](https://github.com/maushah/maushah.github.io/blob/master/mpls-vpn-docker.md)
 
 ### Processes
 
@@ -31,9 +32,15 @@
    * [From Code to Deployment](https://www.linkedin.com/pulse/from-code-deployment-complete-hands-on-guide-cicd-pavan-belagatti/)
    * [AWS Open Guide](https://github.com/open-guides/og-aws)
    * [Handy bash scripts for AWS](https://github.com/maushah/scripts)
+   * Inventory mangement tools such as [Device42](http://www.device42.com/), [Trade Gecko](http://tradegecko.com) and [Open DCIM](http://opendcim.org/)
+   * [Automation Basics](https://automatetheboringstuff.com/)
+   * [CICD primer](https://www.freecodecamp.org/news/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
 
 * SRE
    * [SRE Capability heatmap](https://www.cruform.com/sre-capability-map/)
+   * [Linux scaling](https://mrotaru.wordpress.com/2013/10/10/scaling-to-12-million-concurrent-connections-how-migratorydata-did-it/)
+   * Status pages such as [Status IO](https://status.io/features) or [Status page](https://www.statuspage.io/)
+
 
 * System Architecture
    * [Netflix Event Notification](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
