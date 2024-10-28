@@ -54,11 +54,13 @@
    * [Cyber Insurance](https://github.com/maushah/maushah.github.io/blob/master/cyberinsurance.md)
    * [IP AbuseDB](https://abusesipdb.com/check)
    * [Opensource K8S Runtime security](https://sysdig.com/blog/oss-container-security-stack/)
+   * [Security Tooling Success Strategy](https://www.gyan.ca/lessons-in-security-tooling-strategies-for-success/)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
    * [ML System design](https://www.evidentlyai.com/ml-system-design)
    * [ML stack](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+   * [LLM & GenAI one stop shop](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
