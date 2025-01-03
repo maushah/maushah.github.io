@@ -55,6 +55,7 @@
    * [IP AbuseDB](https://abusesipdb.com/check)
    * [Opensource K8S Runtime security](https://sysdig.com/blog/oss-container-security-stack/)
    * [Security Tooling Success Strategy](https://www.gyan.ca/lessons-in-security-tooling-strategies-for-success/)
+   * [Systems thinking for Security](https://tldrsec.com/p/systems-thinking-for-cybersecurity-professionals)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
