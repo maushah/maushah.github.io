@@ -56,12 +56,17 @@
    * [Opensource K8S Runtime security](https://sysdig.com/blog/oss-container-security-stack/)
    * [Security Tooling Success Strategy](https://www.gyan.ca/lessons-in-security-tooling-strategies-for-success/)
    * [Systems thinking for Security](https://tldrsec.com/p/systems-thinking-for-cybersecurity-professionals)
+   * [Security program templates](https://sectemplates.com)
+   * [Security Awareness tips](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
    * [ML System design](https://www.evidentlyai.com/ml-system-design)
    * [ML stack](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
    * [LLM & GenAI one stop shop](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
+   * [Implement RAG AI guide](https://www.linkedin.com/pulse/implementing-retrieval-augmented-generation-rag-guide-belagatti-aopmc/)
+   * [Enhancing RAG AI](https://www.linkedin.com/pulse/rag-riches-enhancing-ai-applications-pavan-belagatti-s3fgc/)
+   * 
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
