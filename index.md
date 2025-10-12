@@ -15,6 +15,7 @@
 
 * Docker
     * [Dockerfile structuring](https://pauldally.medium.com/structuring-dockerfiles-for-productivity-2681de4815a4)
+    * [Container Training](https://container.training)
 
 * Kubernetes
     * [Kubernetes history](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care)
@@ -40,12 +41,14 @@
    * [SRE Capability heatmap](https://www.cruform.com/sre-capability-map/)
    * [Linux scaling](https://mrotaru.wordpress.com/2013/10/10/scaling-to-12-million-concurrent-connections-how-migratorydata-did-it/)
    * Status pages such as [Status IO](https://status.io/features) or [Status page](https://www.statuspage.io/)
+   * [Production Readiness](https://jbd.dev/prod-readiness/)
 
 
 * System Architecture
    * [Netflix Event Notification](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
    * [System Design Interview](https://www.educative.io/blog/complete-guide-to-system-design)
    * [Kafka message bus getting started](https://medium.com/walmartglobaltech/rendezvous-with-kafka-a-simple-guide-to-get-started-48db3b921cc)
+   * [Designing Data Intesive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)
 
 * Security
    * [Cyber Sec trends](https://www.oreilly.com/radar/the-future-of-security/)
@@ -58,6 +61,7 @@
    * [Systems thinking for Security](https://tldrsec.com/p/systems-thinking-for-cybersecurity-professionals)
    * [Security program templates](https://sectemplates.com)
    * [Security Awareness tips](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
+   * [Crowdstrike Global Threat Report](https://go.crowdstrike.com/2025-global-threat-report.html)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
@@ -66,7 +70,7 @@
    * [LLM & GenAI one stop shop](https://start.me/p/9oJvxx/applying-llms-genai-to-cyber-security)
    * [Implement RAG AI guide](https://www.linkedin.com/pulse/implementing-retrieval-augmented-generation-rag-guide-belagatti-aopmc/)
    * [Enhancing RAG AI](https://www.linkedin.com/pulse/rag-riches-enhancing-ai-applications-pavan-belagatti-s3fgc/)
-   * 
+   * [Google GenAI Prompting Guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
