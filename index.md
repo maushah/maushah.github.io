@@ -72,3 +72,4 @@
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
   * [Sysadmin hiring](https://opensource.com/article/19/7/sysadmin-job-interview-questions)
   * [ByteByteGo System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+  * [Devops Hiring](https://opensource.com/sites/default/files/gated-content/devops_hiring_guide_v2.pdf)
