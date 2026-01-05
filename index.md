@@ -62,6 +62,8 @@
    * [Security program templates](https://sectemplates.com)
    * [Security Awareness tips](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
    * [Crowdstrike Global Threat Report](https://go.crowdstrike.com/2025-global-threat-report.html)
+   * [Security Reports for CISOs](https://github.com/jacobdjwilson/awesome-annual-security-reports)
+   * [AI SAST tools](https://joshua.hu/llm-engineer-review-sast-security-ai-tools-pentesters)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
