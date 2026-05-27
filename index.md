@@ -74,6 +74,7 @@
    * [Implement RAG AI guide](https://www.linkedin.com/pulse/implementing-retrieval-augmented-generation-rag-guide-belagatti-aopmc/)
    * [Enhancing RAG AI](https://www.linkedin.com/pulse/rag-riches-enhancing-ai-applications-pavan-belagatti-s3fgc/)
    * [Google GenAI Prompting Guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+   * [DORA AI Calculater](https://dora.dev/ai/roi/calculator)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
