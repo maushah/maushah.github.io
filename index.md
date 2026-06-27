@@ -66,6 +66,7 @@
    * [AI SAST tools](https://joshua.hu/llm-engineer-review-sast-security-ai-tools-pentesters)
    * [Security north stars at different stages](https://theporkskewer.medium.com/startup-security-a-framework-from-zero-to-100m-arr-6809e74e1b2a)
    * [Lasso Security for Agentic AI research](https://www.lasso.security/research)
+   * [Agentic OSS SAST/SCA](https://github.com/cynative/cynative)
  
 * GenAI
    * [GenAI LLM Architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
