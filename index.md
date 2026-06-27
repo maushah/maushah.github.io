@@ -86,6 +86,7 @@
      * [Claude code security plugin](https://claude.com/plugins/security-guidance)
      * [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
      * [Claude skills repo](https://github.com/anthropics/skills)
+     * [Benchmarking AI agents for SRE, Security & FinOps](https://github.com/itbench-hub/ITBench)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
