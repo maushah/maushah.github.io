@@ -80,13 +80,14 @@
    * [Automating 1:1 prep](https://leadlikeamother.substack.com/p/how-i-automated-my-11-prep)
    * [Run OSS Agents without infra](https://mindshub.ai/)
    * [Agentic AI Adoption with guardrails](https://www.cyber.gov.au/sites/default/files/2026-05/careful_adoption_of_agentic_ai_services.pdf)
-   * Claude Code
+   * Vibe Coding
      * [How Claude code works in repos](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
      * [Claude code security settings](https://www.backslash.security/blog/claude-code-security-best-practices)
      * [Claude code security plugin](https://claude.com/plugins/security-guidance)
      * [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
      * [Claude skills repo](https://github.com/anthropics/skills)
      * [Benchmarking AI agents for SRE, Security & FinOps](https://github.com/itbench-hub/ITBench)
+     * [Running free coding agent locally](https://github.com/maushah/maushah.github.io/blob/master/coding-agent-oss.md)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
