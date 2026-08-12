@@ -87,7 +87,7 @@
      * [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
      * [Claude skills repo](https://github.com/anthropics/skills)
      * [Benchmarking AI agents for SRE, Security & FinOps](https://github.com/itbench-hub/ITBench)
-     * [Running free coding agent locally](https://github.com/maushah/maushah.github.io/blob/master/coding-agent-oss.md)
+     * [Running a coding agent locally on your MAC](https://github.com/maushah/maushah.github.io/blob/master/coding-agent-oss.md)
  
 * People
   * [Hiring remote](https://www.helpscout.com/blog/how-to-hire-remote/)
