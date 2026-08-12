@@ -19,7 +19,7 @@ Ollama serves as the local LLM inference engine on your machine.
 1. **Install Ollama:**
    - **macOS / Linux terminal installer:**
      ```
-     curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh) | bash
+     curl -fsSL https://ollama.com/install.sh | bash
      ```
    - *Alternatively, download the desktop app directly from [ollama.com](https://ollama.com).*
 
@@ -43,7 +43,7 @@ OpenCode provides an interactive Terminal UI (TUI) optimized for local agentic e
   
   * Run the Official Installer Script
 ```
-curl -fsSL [https://opencode.ai/install](https://opencode.ai/install) | bash
+curl -fsSL https://opencode.ai/install | bash
 ```
   * Add OpenCode to Your Terminal PATH (zsh fix)
 If opencode is not recognized after installation, append your profile settings to your .zshrc
